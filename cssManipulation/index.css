@@ -1,0 +1,30 @@
+#b1{
+    width: 20em;
+    background-color:black;
+    height:35px;
+}
+
+#b2{
+    width: 20em;
+    background-color:blue;
+    height:35px;
+}
+
+#b3{
+    width: 20em;
+    background-color:red;
+    height:35px;
+}
+
+#b4{
+    width: 20em;
+    background-color:green;
+    height:35px;
+}
+
+
+#box{
+    width:500px;
+    height:100px;
+    font-size: 100px;
+}
